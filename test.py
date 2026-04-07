@@ -1,4 +1,4 @@
 print("testdh")
-print(" git")
+print(" fuck git")
 print("from vscode")
 print("joe")
